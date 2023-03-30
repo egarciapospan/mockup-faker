@@ -1,1744 +1,337 @@
 {
-  "ordenes":
-  [
-  {
-    "id": "3ff6bee3-c5aa-43c3-9729-43706d282494",
-    "impuesto": 39.81,
-    "subtotal": 568.84,
-    "total": 608.65
-  },
-  {
-    "id": "19c428b2-8054-4c75-b6a5-fedd7ad871be",
-    "impuesto": 90.94,
-    "subtotal": 1298.93,
-    "total": 1389.87
-  },
-  {
-    "id": "636521e5-9f95-4737-90f4-449eed14ac81",
-    "impuesto": 155.19,
-    "subtotal": 2217.04,
-    "total": 2372.23
-  },
-  {
-    "id": "8646599c-4637-41b8-adaa-2ff9176b7d23",
-    "impuesto": 69.47,
-    "subtotal": 992.46,
-    "total": 1061.93
-  },
-  {
-    "id": "32d9ee9b-2184-4fe2-9944-9a48eb8ec883",
-    "impuesto": 26.36,
-    "subtotal": 376.58,
-    "total": 402.94
-  },
-  {
-    "id": "43ad3eda-79f3-462e-96d5-efa971fc997f",
-    "impuesto": 116.75,
-    "subtotal": 1667.83,
-    "total": 1784.58
-  },
-  {
-    "id": "69f34b39-d62c-4918-960b-aff82e026dbc",
-    "impuesto": 44.36,
-    "subtotal": 633.68,
-    "total": 678.04
-  },
-  {
-    "id": "5cace493-2bf0-41e1-9f9b-ae5425cb3b41",
-    "impuesto": 134.12,
-    "subtotal": 1916.01,
-    "total": 2050.13
-  },
-  {
-    "id": "986db44d-9326-4d26-9571-61bcdcfef8c0",
-    "impuesto": 138.98,
-    "subtotal": 1985.51,
-    "total": 2124.49
-  },
-  {
-    "id": "33dd9673-203c-4e66-995a-72f12e23631a",
-    "impuesto": 84.4,
-    "subtotal": 1205.77,
-    "total": 1290.17
-  },
-  {
-    "id": "be157f08-5258-4b77-bbd8-4369ae21ac4c",
-    "impuesto": 93.96,
-    "subtotal": 1342.3,
-    "total": 1436.26
-  },
-  {
-    "id": "9d436df5-2987-493f-b000-78ff94d4e056",
-    "impuesto": 128.94,
-    "subtotal": 1841.83,
-    "total": 1970.77
-  },
-  {
-    "id": "2cb9ec83-d348-43a6-b42c-2930d58c50fd",
-    "impuesto": 120.63,
-    "subtotal": 1723.25,
-    "total": 1843.88
-  },
-  {
-    "id": "15212249-196d-4d5d-b7e3-64b31a8c3d5c",
-    "impuesto": 140.54,
-    "subtotal": 2007.73,
-    "total": 2148.27
-  },
-  {
-    "id": "7fbb07db-d5bd-49ca-9082-ae8fdbf50b1f",
-    "impuesto": 73.34,
-    "subtotal": 1047.67,
-    "total": 1121.01
-  },
-  {
-    "id": "23c44e40-6c84-4101-b7ed-5a75470a4977",
-    "impuesto": 89.86,
-    "subtotal": 1283.71,
-    "total": 1373.57
-  },
-  {
-    "id": "f170adb8-25a4-43d7-a567-4a2bcff8f367",
-    "impuesto": 85.28,
-    "subtotal": 1218.31,
-    "total": 1303.59
-  },
-  {
-    "id": "29a5f141-db06-4e47-aa2d-90095a0dc639",
-    "impuesto": 79.04,
-    "subtotal": 1129.18,
-    "total": 1208.22
-  },
-  {
-    "id": "1f4e9201-2b06-4d5e-bfe8-72042cdb27fc",
-    "impuesto": 88.88,
-    "subtotal": 1269.72,
-    "total": 1358.6
-  },
-  {
-    "id": "b26a0b91-31b2-4dd2-a0bc-84f814206bc5",
-    "impuesto": 88.19,
-    "subtotal": 1259.8,
-    "total": 1347.99
-  },
-  {
-    "id": "7cd85b30-1209-41fb-afbd-261f4a6c3961",
-    "impuesto": 37.02,
-    "subtotal": 528.84,
-    "total": 565.86
-  },
-  {
-    "id": "527d91ba-5609-49a9-8baa-f9e601cbee9c",
-    "impuesto": 77.64,
-    "subtotal": 1109.01,
-    "total": 1186.65
-  },
-  {
-    "id": "977ce267-0606-43a0-a279-caac2f4aaa1f",
-    "impuesto": 28.66,
-    "subtotal": 409.41,
-    "total": 438.07
-  },
-  {
-    "id": "324fe3ba-fca8-4fc6-8cb4-4f72cb45fc77",
-    "impuesto": 24.23,
-    "subtotal": 346.14,
-    "total": 370.37
-  },
-  {
-    "id": "36bdeb1c-fddc-41b9-8f65-e16b3df69c58",
-    "impuesto": 34.23,
-    "subtotal": 489,
-    "total": 523.23
-  },
-  {
-    "id": "69b2e11c-c28d-43f2-a832-127de8d26e95",
-    "impuesto": 104.29,
-    "subtotal": 1489.77,
-    "total": 1594.06
-  },
-  {
-    "id": "e755b745-b67a-4acc-a0b9-89c3d3a92250",
-    "impuesto": 17.87,
-    "subtotal": 255.32,
-    "total": 273.19
-  },
-  {
-    "id": "688f763e-4973-47a6-9d62-d670f90c9f14",
-    "impuesto": 59.72,
-    "subtotal": 853.29,
-    "total": 913.01
-  },
-  {
-    "id": "673e254d-6e99-41ac-83c8-c775eebcd22c",
-    "impuesto": 41.12,
-    "subtotal": 587.53,
-    "total": 628.65
-  },
-  {
-    "id": "2c2b31f6-ac59-415d-a4df-638a71a405bb",
-    "impuesto": 12.68,
-    "subtotal": 181.05,
-    "total": 193.73
-  }
-],
-"detalles": 
-[{
-  "cantidad": 7,
-  "id": "4b1990ab-992d-4c4d-b715-be5ca11f71e4",
-  "impuesto": 15.25,
-  "nombre": "Tuna",
-  "ordenesId": "3ff6bee3-c5aa-43c3-9729-43706d282494",
-  "precio": 31.13,
-  "subtotal": 217.91,
-  "total": 233.16
-}, {
-  "cantidad": 5,
-  "id": "9bcb08ee-b4b9-4cb8-8ca5-58a8f8fed463",
-  "impuesto": 16.96,
-  "nombre": "Gloves",
-  "ordenesId": "3ff6bee3-c5aa-43c3-9729-43706d282494",
-  "precio": 48.46,
-  "subtotal": 242.3,
-  "total": 259.26
-}, {
-  "cantidad": 9,
-  "id": "370ad545-17a7-452b-876c-fd7f1ca9174d",
-  "impuesto": 7.6,
-  "nombre": "Chair",
-  "ordenesId": "3ff6bee3-c5aa-43c3-9729-43706d282494",
-  "precio": 12.07,
-  "subtotal": 108.63,
-  "total": 116.23
-}, {
-  "cantidad": 5,
-  "id": "4377a53d-d93c-4f71-bc4c-0c55240db20a",
-  "impuesto": 9.22,
-  "nombre": "Bacon",
-  "ordenesId": "19c428b2-8054-4c75-b6a5-fedd7ad871be",
-  "precio": 26.34,
-  "subtotal": 131.7,
-  "total": 140.92
-}, {
-  "cantidad": 3,
-  "id": "f9df6709-75cc-4a54-81d7-c62dcd333cb8",
-  "impuesto": 2.53,
-  "nombre": "Hat",
-  "ordenesId": "19c428b2-8054-4c75-b6a5-fedd7ad871be",
-  "precio": 12.05,
-  "subtotal": 36.15,
-  "total": 38.68
-}, {
-  "cantidad": 3,
-  "id": "4f62efc2-b098-4219-8b3c-fa767d2a02ff",
-  "impuesto": 8.23,
-  "nombre": "Gloves",
-  "ordenesId": "19c428b2-8054-4c75-b6a5-fedd7ad871be",
-  "precio": 39.2,
-  "subtotal": 117.6,
-  "total": 125.83
-}, {
-  "cantidad": 9,
-  "id": "9f148d9f-b317-467b-9648-d6aa162fb22a",
-  "impuesto": 24.43,
-  "nombre": "Salad",
-  "ordenesId": "19c428b2-8054-4c75-b6a5-fedd7ad871be",
-  "precio": 38.77,
-  "subtotal": 348.93,
-  "total": 373.36
-}, {
-  "cantidad": 8,
-  "id": "201238f3-9af7-46b6-bcec-9215c8d8ec96",
-  "impuesto": 9.6,
-  "nombre": "Gloves",
-  "ordenesId": "19c428b2-8054-4c75-b6a5-fedd7ad871be",
-  "precio": 17.14,
-  "subtotal": 137.12,
-  "total": 146.72
-}, {
-  "cantidad": 6,
-  "id": "82f29c7a-1711-465d-aca4-58d14ba32321",
-  "impuesto": 4.93,
-  "nombre": "Soap",
-  "ordenesId": "19c428b2-8054-4c75-b6a5-fedd7ad871be",
-  "precio": 11.74,
-  "subtotal": 70.44,
-  "total": 75.37
-}, {
-  "cantidad": 8,
-  "id": "f5cc4b59-2508-43c4-96c9-147ce56fe6c3",
-  "impuesto": 9.76,
-  "nombre": "Car",
-  "ordenesId": "19c428b2-8054-4c75-b6a5-fedd7ad871be",
-  "precio": 17.42,
-  "subtotal": 139.36,
-  "total": 149.12
-}, {
-  "cantidad": 3,
-  "id": "385dd1bd-4634-4454-b97c-bd7dbcb02f5d",
-  "impuesto": 7.58,
-  "nombre": "Salad",
-  "ordenesId": "19c428b2-8054-4c75-b6a5-fedd7ad871be",
-  "precio": 36.09,
-  "subtotal": 108.27,
-  "total": 115.85
-}, {
-  "cantidad": 3,
-  "id": "060fa913-e119-4354-8474-25f991218d40",
-  "impuesto": 3.47,
-  "nombre": "Pizza",
-  "ordenesId": "19c428b2-8054-4c75-b6a5-fedd7ad871be",
-  "precio": 16.52,
-  "subtotal": 49.56,
-  "total": 53.03
-}, {
-  "cantidad": 10,
-  "id": "9b4c170c-180a-43d1-96fb-7950d57f94f0",
-  "impuesto": 11.19,
-  "nombre": "Chips",
-  "ordenesId": "19c428b2-8054-4c75-b6a5-fedd7ad871be",
-  "precio": 15.98,
-  "subtotal": 159.8,
-  "total": 170.99
-}, {
-  "cantidad": 9,
-  "id": "669891eb-f4b2-4394-b7b3-b31ec4728cd7",
-  "impuesto": 26.5,
-  "nombre": "Bike",
-  "ordenesId": "636521e5-9f95-4737-90f4-449eed14ac81",
-  "precio": 42.07,
-  "subtotal": 378.63,
-  "total": 405.13
-}, {
-  "cantidad": 4,
-  "id": "0b88e8b8-f8a5-46e5-98dc-6d0b6209bbc5",
-  "impuesto": 14,
-  "nombre": "Soap",
-  "ordenesId": "636521e5-9f95-4737-90f4-449eed14ac81",
-  "precio": 50,
-  "subtotal": 200,
-  "total": 214
-}, {
-  "cantidad": 4,
-  "id": "402ae24c-1c14-49be-a249-d4e5454388fb",
-  "impuesto": 12.9,
-  "nombre": "Sausages",
-  "ordenesId": "636521e5-9f95-4737-90f4-449eed14ac81",
-  "precio": 46.08,
-  "subtotal": 184.32,
-  "total": 197.22
-}, {
-  "cantidad": 10,
-  "id": "6a827f55-0607-46b3-9d91-20c8b46a03f5",
-  "impuesto": 23.08,
-  "nombre": "Bike",
-  "ordenesId": "636521e5-9f95-4737-90f4-449eed14ac81",
-  "precio": 32.97,
-  "subtotal": 329.7,
-  "total": 352.78
-}, {
-  "cantidad": 10,
-  "id": "0b9bee28-3a7f-4a96-84fd-68c44592b496",
-  "impuesto": 7.68,
-  "nombre": "Keyboard",
-  "ordenesId": "636521e5-9f95-4737-90f4-449eed14ac81",
-  "precio": 10.97,
-  "subtotal": 109.7,
-  "total": 117.38
-}, {
-  "cantidad": 6,
-  "id": "95281f95-d863-488a-8792-d1ab9745e54f",
-  "impuesto": 14.05,
-  "nombre": "Ball",
-  "ordenesId": "636521e5-9f95-4737-90f4-449eed14ac81",
-  "precio": 33.46,
-  "subtotal": 200.76,
-  "total": 214.81
-}, {
-  "cantidad": 6,
-  "id": "516cdf9b-7a14-42b9-bfcf-9b5c19868ed8",
-  "impuesto": 15.96,
-  "nombre": "Table",
-  "ordenesId": "636521e5-9f95-4737-90f4-449eed14ac81",
-  "precio": 37.99,
-  "subtotal": 227.94,
-  "total": 243.9
-}, {
-  "cantidad": 9,
-  "id": "e1aa5f02-abf3-4849-8ca9-906382227e58",
-  "impuesto": 25.55,
-  "nombre": "Table",
-  "ordenesId": "636521e5-9f95-4737-90f4-449eed14ac81",
-  "precio": 40.55,
-  "subtotal": 364.95,
-  "total": 390.5
-}, {
-  "cantidad": 6,
-  "id": "954a1907-1f5a-4f79-9557-d89a653b08e9",
-  "impuesto": 15.47,
-  "nombre": "Towels",
-  "ordenesId": "636521e5-9f95-4737-90f4-449eed14ac81",
-  "precio": 36.84,
-  "subtotal": 221.04,
-  "total": 236.51
-}, {
-  "cantidad": 10,
-  "id": "3d072e22-eb49-439f-bbaa-4cf320fe40d3",
-  "impuesto": 29.08,
-  "nombre": "Cheese",
-  "ordenesId": "8646599c-4637-41b8-adaa-2ff9176b7d23",
-  "precio": 41.54,
-  "subtotal": 415.4,
-  "total": 444.48
-}, {
-  "cantidad": 8,
-  "id": "a6869518-0b2c-45e9-937d-dd110a7b3ad9",
-  "impuesto": 24.94,
-  "nombre": "Cheese",
-  "ordenesId": "8646599c-4637-41b8-adaa-2ff9176b7d23",
-  "precio": 44.54,
-  "subtotal": 356.32,
-  "total": 381.26
-}, {
-  "cantidad": 6,
-  "id": "d9d87352-5b06-4a57-9a7e-888a567ef025",
-  "impuesto": 6.51,
-  "nombre": "Bike",
-  "ordenesId": "8646599c-4637-41b8-adaa-2ff9176b7d23",
-  "precio": 15.51,
-  "subtotal": 93.06,
-  "total": 99.57
-}, {
-  "cantidad": 6,
-  "id": "31e18154-2cec-4fda-8602-1f68d32dcb85",
-  "impuesto": 8.94,
-  "nombre": "Tuna",
-  "ordenesId": "8646599c-4637-41b8-adaa-2ff9176b7d23",
-  "precio": 21.28,
-  "subtotal": 127.68,
-  "total": 136.62
-}, {
-  "cantidad": 7,
-  "id": "504f41d0-7db4-4dc0-8948-f4ff301e09db",
-  "impuesto": 13.97,
-  "nombre": "Sausages",
-  "ordenesId": "32d9ee9b-2184-4fe2-9944-9a48eb8ec883",
-  "precio": 28.52,
-  "subtotal": 199.64,
-  "total": 213.61
-}, {
-  "cantidad": 6,
-  "id": "0538d42c-92e5-4290-a281-020d8297fe0c",
-  "impuesto": 12.39,
-  "nombre": "Bacon",
-  "ordenesId": "32d9ee9b-2184-4fe2-9944-9a48eb8ec883",
-  "precio": 29.49,
-  "subtotal": 176.94,
-  "total": 189.33
-}, {
-  "cantidad": 9,
-  "id": "b919e4f2-13be-418c-a1d3-c6ba21fce4c0",
-  "impuesto": 9.07,
-  "nombre": "Table",
-  "ordenesId": "43ad3eda-79f3-462e-96d5-efa971fc997f",
-  "precio": 14.4,
-  "subtotal": 129.6,
-  "total": 138.67
-}, {
-  "cantidad": 3,
-  "id": "c71e9f35-d81f-459d-89ac-1a4724b7aa92",
-  "impuesto": 9.68,
-  "nombre": "Car",
-  "ordenesId": "43ad3eda-79f3-462e-96d5-efa971fc997f",
-  "precio": 46.09,
-  "subtotal": 138.27,
-  "total": 147.95
-}, {
-  "cantidad": 8,
-  "id": "b0bc3761-ac0c-43cc-a19c-85a4f2b336a1",
-  "impuesto": 11.88,
-  "nombre": "Bike",
-  "ordenesId": "43ad3eda-79f3-462e-96d5-efa971fc997f",
-  "precio": 21.21,
-  "subtotal": 169.68,
-  "total": 181.56
-}, {
-  "cantidad": 8,
-  "id": "aa61c5de-f573-4321-a089-fc4013d4ba74",
-  "impuesto": 23.28,
-  "nombre": "Chips",
-  "ordenesId": "43ad3eda-79f3-462e-96d5-efa971fc997f",
-  "precio": 41.57,
-  "subtotal": 332.56,
-  "total": 355.84
-}, {
-  "cantidad": 8,
-  "id": "a85c89ea-c06a-4dd6-b3f7-89bb54a6d06b",
-  "impuesto": 15.75,
-  "nombre": "Pizza",
-  "ordenesId": "43ad3eda-79f3-462e-96d5-efa971fc997f",
-  "precio": 28.12,
-  "subtotal": 224.96,
-  "total": 240.71
-}, {
-  "cantidad": 4,
-  "id": "2543eae1-2740-4ca5-891d-2f95953930b1",
-  "impuesto": 13.13,
-  "nombre": "Sausages",
-  "ordenesId": "43ad3eda-79f3-462e-96d5-efa971fc997f",
-  "precio": 46.88,
-  "subtotal": 187.52,
-  "total": 200.65
-}, {
-  "cantidad": 4,
-  "id": "45b8f8d9-fed1-44ee-bc73-69aeac5d1f26",
-  "impuesto": 5.99,
-  "nombre": "Shoes",
-  "ordenesId": "43ad3eda-79f3-462e-96d5-efa971fc997f",
-  "precio": 21.39,
-  "subtotal": 85.56,
-  "total": 91.55
-}, {
-  "cantidad": 10,
-  "id": "18fbc52c-6efd-47ab-97a5-8f0ab75c83fb",
-  "impuesto": 24.09,
-  "nombre": "Chips",
-  "ordenesId": "43ad3eda-79f3-462e-96d5-efa971fc997f",
-  "precio": 34.42,
-  "subtotal": 344.2,
-  "total": 368.29
-}, {
-  "cantidad": 4,
-  "id": "b9c5a6b4-0d73-4613-9fec-e839e0144d83",
-  "impuesto": 3.88,
-  "nombre": "Computer",
-  "ordenesId": "43ad3eda-79f3-462e-96d5-efa971fc997f",
-  "precio": 13.87,
-  "subtotal": 55.48,
-  "total": 59.36
-}, {
-  "cantidad": 5,
-  "id": "f99ca22b-1ba1-4e38-a122-3c6c141da7ec",
-  "impuesto": 7.33,
-  "nombre": "Shoes",
-  "ordenesId": "69f34b39-d62c-4918-960b-aff82e026dbc",
-  "precio": 20.94,
-  "subtotal": 104.7,
-  "total": 112.03
-}, {
-  "cantidad": 3,
-  "id": "fa605c8b-d293-4819-a8ee-7ec4cdfb8276",
-  "impuesto": 9.03,
-  "nombre": "Car",
-  "ordenesId": "69f34b39-d62c-4918-960b-aff82e026dbc",
-  "precio": 43.01,
-  "subtotal": 129.03,
-  "total": 138.06
-}, {
-  "cantidad": 10,
-  "id": "18e1a960-6ff5-43e3-8f85-6d38cec272f7",
-  "impuesto": 19.42,
-  "nombre": "Car",
-  "ordenesId": "69f34b39-d62c-4918-960b-aff82e026dbc",
-  "precio": 27.74,
-  "subtotal": 277.4,
-  "total": 296.82
-}, {
-  "cantidad": 5,
-  "id": "d2a5d390-3ca9-4b53-b881-f9000c7d7891",
-  "impuesto": 8.58,
-  "nombre": "Hat",
-  "ordenesId": "69f34b39-d62c-4918-960b-aff82e026dbc",
-  "precio": 24.51,
-  "subtotal": 122.55,
-  "total": 131.13
-}, {
-  "cantidad": 10,
-  "id": "ce8f8566-2511-4901-8faf-26d258005963",
-  "impuesto": 28,
-  "nombre": "Fish",
-  "ordenesId": "5cace493-2bf0-41e1-9f9b-ae5425cb3b41",
-  "precio": 40,
-  "subtotal": 400,
-  "total": 428
-}, {
-  "cantidad": 3,
-  "id": "9bae1ccd-dc4f-469a-83e7-72d685c82798",
-  "impuesto": 3.03,
-  "nombre": "Chicken",
-  "ordenesId": "5cace493-2bf0-41e1-9f9b-ae5425cb3b41",
-  "precio": 14.45,
-  "subtotal": 43.35,
-  "total": 46.38
-}, {
-  "cantidad": 4,
-  "id": "20968cf5-6576-48ca-b180-1300985d69b7",
-  "impuesto": 10.36,
-  "nombre": "Computer",
-  "ordenesId": "5cace493-2bf0-41e1-9f9b-ae5425cb3b41",
-  "precio": 36.99,
-  "subtotal": 147.96,
-  "total": 158.32
-}, {
-  "cantidad": 4,
-  "id": "046460fd-b3b9-42c8-bc31-1006b983f0de",
-  "impuesto": 5.8,
-  "nombre": "Shoes",
-  "ordenesId": "5cace493-2bf0-41e1-9f9b-ae5425cb3b41",
-  "precio": 20.72,
-  "subtotal": 82.88,
-  "total": 88.68
-}, {
-  "cantidad": 7,
-  "id": "845217b4-198d-45e8-bb76-cfe387190a2d",
-  "impuesto": 5.97,
-  "nombre": "Towels",
-  "ordenesId": "5cace493-2bf0-41e1-9f9b-ae5425cb3b41",
-  "precio": 12.19,
-  "subtotal": 85.33,
-  "total": 91.3
-}, {
-  "cantidad": 4,
-  "id": "9f10cc79-af71-4e1a-ae0a-ea9427bf95ae",
-  "impuesto": 12.22,
-  "nombre": "Ball",
-  "ordenesId": "5cace493-2bf0-41e1-9f9b-ae5425cb3b41",
-  "precio": 43.63,
-  "subtotal": 174.52,
-  "total": 186.74
-}, {
-  "cantidad": 7,
-  "id": "ae7e9f91-fdc1-42e5-9df9-ee5394cc0ece",
-  "impuesto": 23.76,
-  "nombre": "Mouse",
-  "ordenesId": "5cace493-2bf0-41e1-9f9b-ae5425cb3b41",
-  "precio": 48.48,
-  "subtotal": 339.36,
-  "total": 363.12
-}, {
-  "cantidad": 8,
-  "id": "86fef1f5-3011-4ba6-ade1-d705dc7d744d",
-  "impuesto": 21.92,
-  "nombre": "Tuna",
-  "ordenesId": "5cace493-2bf0-41e1-9f9b-ae5425cb3b41",
-  "precio": 39.14,
-  "subtotal": 313.12,
-  "total": 335.04
-}, {
-  "cantidad": 7,
-  "id": "17de52d9-6c39-4e88-ada3-91f3e032ba8b",
-  "impuesto": 11.3,
-  "nombre": "Pants",
-  "ordenesId": "5cace493-2bf0-41e1-9f9b-ae5425cb3b41",
-  "precio": 23.07,
-  "subtotal": 161.49,
-  "total": 172.79
-}, {
-  "cantidad": 5,
-  "id": "a3745244-54e8-40b7-92ef-07902484f7f0",
-  "impuesto": 11.76,
-  "nombre": "Ball",
-  "ordenesId": "5cace493-2bf0-41e1-9f9b-ae5425cb3b41",
-  "precio": 33.6,
-  "subtotal": 168,
-  "total": 179.76
-}, {
-  "cantidad": 5,
-  "id": "4a5ada43-e2ca-4f4c-89d4-ae2941f92960",
-  "impuesto": 6.76,
-  "nombre": "Sausages",
-  "ordenesId": "986db44d-9326-4d26-9571-61bcdcfef8c0",
-  "precio": 19.32,
-  "subtotal": 96.6,
-  "total": 103.36
-}, {
-  "cantidad": 9,
-  "id": "8ebfd202-ff82-475c-9b6b-f170d2d321ff",
-  "impuesto": 26.12,
-  "nombre": "Sausages",
-  "ordenesId": "986db44d-9326-4d26-9571-61bcdcfef8c0",
-  "precio": 41.46,
-  "subtotal": 373.14,
-  "total": 399.26
-}, {
-  "cantidad": 10,
-  "id": "c85d4ae9-bf34-4e0c-9127-ae398ddecf5b",
-  "impuesto": 17.44,
-  "nombre": "Chips",
-  "ordenesId": "986db44d-9326-4d26-9571-61bcdcfef8c0",
-  "precio": 24.92,
-  "subtotal": 249.2,
-  "total": 266.64
-}, {
-  "cantidad": 10,
-  "id": "d02dbd8d-f075-4aa3-b561-ae811d0e08ea",
-  "impuesto": 19.06,
-  "nombre": "Fish",
-  "ordenesId": "986db44d-9326-4d26-9571-61bcdcfef8c0",
-  "precio": 27.23,
-  "subtotal": 272.3,
-  "total": 291.36
-}, {
-  "cantidad": 8,
-  "id": "f91d7210-a964-4dc9-8b86-725a6735a516",
-  "impuesto": 20.89,
-  "nombre": "Hat",
-  "ordenesId": "986db44d-9326-4d26-9571-61bcdcfef8c0",
-  "precio": 37.31,
-  "subtotal": 298.48,
-  "total": 319.37
-}, {
-  "cantidad": 5,
-  "id": "4abbedd6-7ba4-4ee5-880b-84043d68eead",
-  "impuesto": 4.17,
-  "nombre": "Chair",
-  "ordenesId": "986db44d-9326-4d26-9571-61bcdcfef8c0",
-  "precio": 11.91,
-  "subtotal": 59.55,
-  "total": 63.72
-}, {
-  "cantidad": 10,
-  "id": "227e7402-251a-4ad1-8ce3-3927d09cd1b3",
-  "impuesto": 8.11,
-  "nombre": "Towels",
-  "ordenesId": "986db44d-9326-4d26-9571-61bcdcfef8c0",
-  "precio": 11.58,
-  "subtotal": 115.8,
-  "total": 123.91
-}, {
-  "cantidad": 6,
-  "id": "7083e011-9f38-40d0-be8d-52dc1d5bb5e1",
-  "impuesto": 17.4,
-  "nombre": "Pizza",
-  "ordenesId": "986db44d-9326-4d26-9571-61bcdcfef8c0",
-  "precio": 41.44,
-  "subtotal": 248.64,
-  "total": 266.04
-}, {
-  "cantidad": 6,
-  "id": "4b0b2500-5544-451e-8082-695f07df8404",
-  "impuesto": 19.03,
-  "nombre": "Hat",
-  "ordenesId": "986db44d-9326-4d26-9571-61bcdcfef8c0",
-  "precio": 45.3,
-  "subtotal": 271.8,
-  "total": 290.83
-}, {
-  "cantidad": 4,
-  "id": "dca2a6be-e54b-4258-be8d-ac59f0dc42b6",
-  "impuesto": 11.06,
-  "nombre": "Salad",
-  "ordenesId": "33dd9673-203c-4e66-995a-72f12e23631a",
-  "precio": 39.49,
-  "subtotal": 157.96,
-  "total": 169.02
-}, {
-  "cantidad": 4,
-  "id": "109d0889-5dc1-4dd5-ba5f-ec57ebee35fc",
-  "impuesto": 11.7,
-  "nombre": "Sausages",
-  "ordenesId": "33dd9673-203c-4e66-995a-72f12e23631a",
-  "precio": 41.78,
-  "subtotal": 167.12,
-  "total": 178.82
-}, {
-  "cantidad": 8,
-  "id": "a0877170-e0da-4d29-9201-23a732ed44ed",
-  "impuesto": 18.6,
-  "nombre": "Gloves",
-  "ordenesId": "33dd9673-203c-4e66-995a-72f12e23631a",
-  "precio": 33.21,
-  "subtotal": 265.68,
-  "total": 284.28
-}, {
-  "cantidad": 5,
-  "id": "dda5adaf-7aec-42c2-82ff-57a57c8db5d5",
-  "impuesto": 10.1,
-  "nombre": "Table",
-  "ordenesId": "33dd9673-203c-4e66-995a-72f12e23631a",
-  "precio": 28.87,
-  "subtotal": 144.35,
-  "total": 154.45
-}, {
-  "cantidad": 3,
-  "id": "0ce79c33-b5b9-4bdc-95b6-b76a7e513ea1",
-  "impuesto": 9.49,
-  "nombre": "Chair",
-  "ordenesId": "33dd9673-203c-4e66-995a-72f12e23631a",
-  "precio": 45.18,
-  "subtotal": 135.54,
-  "total": 145.03
-}, {
-  "cantidad": 3,
-  "id": "747640d8-cd49-47c7-8682-a46cc3e93131",
-  "impuesto": 3.84,
-  "nombre": "Tuna",
-  "ordenesId": "33dd9673-203c-4e66-995a-72f12e23631a",
-  "precio": 18.3,
-  "subtotal": 54.9,
-  "total": 58.74
-}, {
-  "cantidad": 5,
-  "id": "2c1ee2f7-1179-43ba-9477-e7a1969d789f",
-  "impuesto": 14.68,
-  "nombre": "Chair",
-  "ordenesId": "33dd9673-203c-4e66-995a-72f12e23631a",
-  "precio": 41.95,
-  "subtotal": 209.75,
-  "total": 224.43
-}, {
-  "cantidad": 3,
-  "id": "d6351b3a-974f-40b8-9f9f-9272fb8add8e",
-  "impuesto": 4.93,
-  "nombre": "Salad",
-  "ordenesId": "33dd9673-203c-4e66-995a-72f12e23631a",
-  "precio": 23.49,
-  "subtotal": 70.47,
-  "total": 75.4
-}, {
-  "cantidad": 10,
-  "id": "05e30750-b701-4894-b5c2-5417f4e3f2e4",
-  "impuesto": 14.41,
-  "nombre": "Soap",
-  "ordenesId": "be157f08-5258-4b77-bbd8-4369ae21ac4c",
-  "precio": 20.58,
-  "subtotal": 205.8,
-  "total": 220.21
-}, {
-  "cantidad": 4,
-  "id": "e87277fc-fb44-4e21-b179-36f8e592da9f",
-  "impuesto": 10.66,
-  "nombre": "Pizza",
-  "ordenesId": "be157f08-5258-4b77-bbd8-4369ae21ac4c",
-  "precio": 38.07,
-  "subtotal": 152.28,
-  "total": 162.94
-}, {
-  "cantidad": 9,
-  "id": "8ded32d4-6af1-4cb2-b51c-fec700e32a71",
-  "impuesto": 13.87,
-  "nombre": "Pants",
-  "ordenesId": "be157f08-5258-4b77-bbd8-4369ae21ac4c",
-  "precio": 22.02,
-  "subtotal": 198.18,
-  "total": 212.05
-}, {
-  "cantidad": 10,
-  "id": "377b7b87-be8c-45f4-b6b1-2e230dcf4445",
-  "impuesto": 21.47,
-  "nombre": "Ball",
-  "ordenesId": "be157f08-5258-4b77-bbd8-4369ae21ac4c",
-  "precio": 30.67,
-  "subtotal": 306.7,
-  "total": 328.17
-}, {
-  "cantidad": 9,
-  "id": "7882a82f-965e-4380-bcf2-5149d3f6cdb5",
-  "impuesto": 6.4,
-  "nombre": "Car",
-  "ordenesId": "be157f08-5258-4b77-bbd8-4369ae21ac4c",
-  "precio": 10.16,
-  "subtotal": 91.44,
-  "total": 97.84
-}, {
-  "cantidad": 5,
-  "id": "3837cd6f-eec6-4bcb-bf89-e01d493b80e1",
-  "impuesto": 14.93,
-  "nombre": "Soap",
-  "ordenesId": "be157f08-5258-4b77-bbd8-4369ae21ac4c",
-  "precio": 42.66,
-  "subtotal": 213.3,
-  "total": 228.23
-}, {
-  "cantidad": 9,
-  "id": "41688d6c-f21d-4a50-9ae0-f60362a8f674",
-  "impuesto": 12.22,
-  "nombre": "Pants",
-  "ordenesId": "be157f08-5258-4b77-bbd8-4369ae21ac4c",
-  "precio": 19.4,
-  "subtotal": 174.6,
-  "total": 186.82
-}, {
-  "cantidad": 9,
-  "id": "0b4cbfb1-7a19-4595-8fdc-77f39ec99310",
-  "impuesto": 22.18,
-  "nombre": "Keyboard",
-  "ordenesId": "9d436df5-2987-493f-b000-78ff94d4e056",
-  "precio": 35.2,
-  "subtotal": 316.8,
-  "total": 338.98
-}, {
-  "cantidad": 7,
-  "id": "f6686cef-e38c-4738-9237-4a898c513498",
-  "impuesto": 11.37,
-  "nombre": "Pizza",
-  "ordenesId": "9d436df5-2987-493f-b000-78ff94d4e056",
-  "precio": 23.2,
-  "subtotal": 162.4,
-  "total": 173.77
-}, {
-  "cantidad": 8,
-  "id": "b6602aab-4215-4cbf-b3bf-3dd9b4c080fd",
-  "impuesto": 24.97,
-  "nombre": "Gloves",
-  "ordenesId": "9d436df5-2987-493f-b000-78ff94d4e056",
-  "precio": 44.59,
-  "subtotal": 356.72,
-  "total": 381.69
-}, {
-  "cantidad": 8,
-  "id": "e6eba6f0-57ee-41b7-ad13-23d42e2e892e",
-  "impuesto": 22.94,
-  "nombre": "Cheese",
-  "ordenesId": "9d436df5-2987-493f-b000-78ff94d4e056",
-  "precio": 40.97,
-  "subtotal": 327.76,
-  "total": 350.7
-}, {
-  "cantidad": 10,
-  "id": "1406dad6-b21a-48e5-b173-15aaecc29572",
-  "impuesto": 32.24,
-  "nombre": "Fish",
-  "ordenesId": "9d436df5-2987-493f-b000-78ff94d4e056",
-  "precio": 46.05,
-  "subtotal": 460.5,
-  "total": 492.74
-}, {
-  "cantidad": 5,
-  "id": "d90155ee-ff22-445b-9edf-f5031c18d61d",
-  "impuesto": 15.24,
-  "nombre": "Salad",
-  "ordenesId": "9d436df5-2987-493f-b000-78ff94d4e056",
-  "precio": 43.53,
-  "subtotal": 217.65,
-  "total": 232.89
-}, {
-  "cantidad": 6,
-  "id": "97a77b14-504d-4473-9158-075d370f4a89",
-  "impuesto": 20.4,
-  "nombre": "Keyboard",
-  "ordenesId": "2cb9ec83-d348-43a6-b42c-2930d58c50fd",
-  "precio": 48.58,
-  "subtotal": 291.48,
-  "total": 311.88
-}, {
-  "cantidad": 7,
-  "id": "2f01811b-40ee-4f14-8184-a70d0e157d38",
-  "impuesto": 19.2,
-  "nombre": "Shirt",
-  "ordenesId": "2cb9ec83-d348-43a6-b42c-2930d58c50fd",
-  "precio": 39.18,
-  "subtotal": 274.26,
-  "total": 293.46
-}, {
-  "cantidad": 6,
-  "id": "79a890ab-3494-46d1-9f50-cd6ba57e65c4",
-  "impuesto": 15.37,
-  "nombre": "Keyboard",
-  "ordenesId": "2cb9ec83-d348-43a6-b42c-2930d58c50fd",
-  "precio": 36.6,
-  "subtotal": 219.6,
-  "total": 234.97
-}, {
-  "cantidad": 7,
-  "id": "c12d0766-9e33-474c-8303-d3b07c783d3a",
-  "impuesto": 17.92,
-  "nombre": "Cheese",
-  "ordenesId": "2cb9ec83-d348-43a6-b42c-2930d58c50fd",
-  "precio": 36.57,
-  "subtotal": 255.99,
-  "total": 273.91
-}, {
-  "cantidad": 3,
-  "id": "2cd6c0f3-e5d3-4552-b1eb-794c8c4ca6e9",
-  "impuesto": 7.61,
-  "nombre": "Shirt",
-  "ordenesId": "2cb9ec83-d348-43a6-b42c-2930d58c50fd",
-  "precio": 36.25,
-  "subtotal": 108.75,
-  "total": 116.36
-}, {
-  "cantidad": 4,
-  "id": "1000006d-4547-4770-bb0c-a04390581855",
-  "impuesto": 13.94,
-  "nombre": "Shirt",
-  "ordenesId": "2cb9ec83-d348-43a6-b42c-2930d58c50fd",
-  "precio": 49.77,
-  "subtotal": 199.08,
-  "total": 213.02
-}, {
-  "cantidad": 3,
-  "id": "1ff7107f-4229-4ae6-8ccb-a1724a661278",
-  "impuesto": 5.89,
-  "nombre": "Cheese",
-  "ordenesId": "2cb9ec83-d348-43a6-b42c-2930d58c50fd",
-  "precio": 28.04,
-  "subtotal": 84.12,
-  "total": 90.01
-}, {
-  "cantidad": 7,
-  "id": "59e4494d-7f01-4aee-9961-a36c5ae759e8",
-  "impuesto": 7.6,
-  "nombre": "Hat",
-  "ordenesId": "2cb9ec83-d348-43a6-b42c-2930d58c50fd",
-  "precio": 15.51,
-  "subtotal": 108.57,
-  "total": 116.17
-}, {
-  "cantidad": 4,
-  "id": "3eabe129-1a57-4930-a76b-4757bf43dee3",
-  "impuesto": 12.7,
-  "nombre": "Salad",
-  "ordenesId": "2cb9ec83-d348-43a6-b42c-2930d58c50fd",
-  "precio": 45.35,
-  "subtotal": 181.4,
-  "total": 194.1
-}, {
-  "cantidad": 9,
-  "id": "68e83592-dae6-46f3-a4ce-2a66bec4d727",
-  "impuesto": 17.86,
-  "nombre": "Computer",
-  "ordenesId": "15212249-196d-4d5d-b7e3-64b31a8c3d5c",
-  "precio": 28.35,
-  "subtotal": 255.15,
-  "total": 273.01
-}, {
-  "cantidad": 5,
-  "id": "cc31e2ce-9620-42c9-a61f-83310245328f",
-  "impuesto": 16.58,
-  "nombre": "Salad",
-  "ordenesId": "15212249-196d-4d5d-b7e3-64b31a8c3d5c",
-  "precio": 47.36,
-  "subtotal": 236.8,
-  "total": 253.38
-}, {
-  "cantidad": 7,
-  "id": "601b6f8c-ed32-4103-bc23-472ab77b8373",
-  "impuesto": 13.01,
-  "nombre": "Pizza",
-  "ordenesId": "15212249-196d-4d5d-b7e3-64b31a8c3d5c",
-  "precio": 26.55,
-  "subtotal": 185.85,
-  "total": 198.86
-}, {
-  "cantidad": 4,
-  "id": "f9982288-c305-4d32-840d-cf21a27081c4",
-  "impuesto": 5.28,
-  "nombre": "Pizza",
-  "ordenesId": "15212249-196d-4d5d-b7e3-64b31a8c3d5c",
-  "precio": 18.87,
-  "subtotal": 75.48,
-  "total": 80.76
-}, {
-  "cantidad": 9,
-  "id": "02634cd7-6be5-4221-af97-b8a8288b6008",
-  "impuesto": 30.69,
-  "nombre": "Table",
-  "ordenesId": "15212249-196d-4d5d-b7e3-64b31a8c3d5c",
-  "precio": 48.72,
-  "subtotal": 438.48,
-  "total": 469.17
-}, {
-  "cantidad": 3,
-  "id": "420fd42d-ecd9-48b1-870a-7103d5773114",
-  "impuesto": 8.15,
-  "nombre": "Bike",
-  "ordenesId": "15212249-196d-4d5d-b7e3-64b31a8c3d5c",
-  "precio": 38.8,
-  "subtotal": 116.4,
-  "total": 124.55
-}, {
-  "cantidad": 8,
-  "id": "34724a09-58e6-4384-ac67-8594a7cbe060",
-  "impuesto": 22.78,
-  "nombre": "Gloves",
-  "ordenesId": "15212249-196d-4d5d-b7e3-64b31a8c3d5c",
-  "precio": 40.67,
-  "subtotal": 325.36,
-  "total": 348.14
-}, {
-  "cantidad": 3,
-  "id": "c7bf6699-2a0e-4333-89c0-246903be81cc",
-  "impuesto": 2.4,
-  "nombre": "Ball",
-  "ordenesId": "15212249-196d-4d5d-b7e3-64b31a8c3d5c",
-  "precio": 11.42,
-  "subtotal": 34.26,
-  "total": 36.66
-}, {
-  "cantidad": 3,
-  "id": "73e1f207-5631-4324-a6d7-d25ce5419ea1",
-  "impuesto": 9.71,
-  "nombre": "Chips",
-  "ordenesId": "15212249-196d-4d5d-b7e3-64b31a8c3d5c",
-  "precio": 46.25,
-  "subtotal": 138.75,
-  "total": 148.46
-}, {
-  "cantidad": 8,
-  "id": "297322a5-9b16-4e52-942f-bdc9323d11bc",
-  "impuesto": 14.08,
-  "nombre": "Gloves",
-  "ordenesId": "15212249-196d-4d5d-b7e3-64b31a8c3d5c",
-  "precio": 25.15,
-  "subtotal": 201.2,
-  "total": 215.28
-}, {
-  "cantidad": 6,
-  "id": "c6e66476-067c-423f-842e-d39b8024a690",
-  "impuesto": 12.57,
-  "nombre": "Pants",
-  "ordenesId": "7fbb07db-d5bd-49ca-9082-ae8fdbf50b1f",
-  "precio": 29.92,
-  "subtotal": 179.52,
-  "total": 192.09
-}, {
-  "cantidad": 6,
-  "id": "203cabbb-9c8a-4187-8a17-694994b07084",
-  "impuesto": 16.23,
-  "nombre": "Tuna",
-  "ordenesId": "7fbb07db-d5bd-49ca-9082-ae8fdbf50b1f",
-  "precio": 38.64,
-  "subtotal": 231.84,
-  "total": 248.07
-}, {
-  "cantidad": 5,
-  "id": "11932619-4691-4e46-a91e-f7642b81ce54",
-  "impuesto": 14.98,
-  "nombre": "Chicken",
-  "ordenesId": "7fbb07db-d5bd-49ca-9082-ae8fdbf50b1f",
-  "precio": 42.79,
-  "subtotal": 213.95,
-  "total": 228.93
-}, {
-  "cantidad": 9,
-  "id": "11ad7961-ca06-439c-a5f6-31c722ef1d8b",
-  "impuesto": 10.76,
-  "nombre": "Chair",
-  "ordenesId": "7fbb07db-d5bd-49ca-9082-ae8fdbf50b1f",
-  "precio": 17.08,
-  "subtotal": 153.72,
-  "total": 164.48
-}, {
-  "cantidad": 3,
-  "id": "272504ba-bf37-462f-b0a4-4bc568442c4c",
-  "impuesto": 8.86,
-  "nombre": "Mouse",
-  "ordenesId": "7fbb07db-d5bd-49ca-9082-ae8fdbf50b1f",
-  "precio": 42.2,
-  "subtotal": 126.6,
-  "total": 135.46
-}, {
-  "cantidad": 4,
-  "id": "21790399-114c-48e6-8546-a656df8f5170",
-  "impuesto": 9.94,
-  "nombre": "Mouse",
-  "ordenesId": "7fbb07db-d5bd-49ca-9082-ae8fdbf50b1f",
-  "precio": 35.51,
-  "subtotal": 142.04,
-  "total": 151.98
-}, {
-  "cantidad": 6,
-  "id": "6843c4dd-11f0-4269-ab84-faa940589514",
-  "impuesto": 13.6,
-  "nombre": "Pizza",
-  "ordenesId": "23c44e40-6c84-4101-b7ed-5a75470a4977",
-  "precio": 32.37,
-  "subtotal": 194.22,
-  "total": 207.82
-}, {
-  "cantidad": 6,
-  "id": "d98fb0b9-a6cc-4c24-99b5-4968563ddf0c",
-  "impuesto": 16.88,
-  "nombre": "Towels",
-  "ordenesId": "23c44e40-6c84-4101-b7ed-5a75470a4977",
-  "precio": 40.2,
-  "subtotal": 241.2,
-  "total": 258.08
-}, {
-  "cantidad": 4,
-  "id": "03d4e485-b15f-4d56-8e20-990788df4d5e",
-  "impuesto": 13.72,
-  "nombre": "Chips",
-  "ordenesId": "23c44e40-6c84-4101-b7ed-5a75470a4977",
-  "precio": 49,
-  "subtotal": 196,
-  "total": 209.72
-}, {
-  "cantidad": 7,
-  "id": "03879ca8-e640-45c1-b3f7-439d1caaa51d",
-  "impuesto": 9.82,
-  "nombre": "Salad",
-  "ordenesId": "23c44e40-6c84-4101-b7ed-5a75470a4977",
-  "precio": 20.04,
-  "subtotal": 140.28,
-  "total": 150.1
-}, {
-  "cantidad": 6,
-  "id": "de96ee41-b9ac-49e5-8604-1fdf6ba25f5f",
-  "impuesto": 9.69,
-  "nombre": "Sausages",
-  "ordenesId": "23c44e40-6c84-4101-b7ed-5a75470a4977",
-  "precio": 23.07,
-  "subtotal": 138.42,
-  "total": 148.11
-}, {
-  "cantidad": 9,
-  "id": "808635b5-c1ca-4436-9fa2-ccc55ea3ea92",
-  "impuesto": 26.15,
-  "nombre": "Car",
-  "ordenesId": "23c44e40-6c84-4101-b7ed-5a75470a4977",
-  "precio": 41.51,
-  "subtotal": 373.59,
-  "total": 399.74
-}, {
-  "cantidad": 9,
-  "id": "9cd3c1c0-0466-4ce3-a72d-e930b0efb8d6",
-  "impuesto": 25.75,
-  "nombre": "Computer",
-  "ordenesId": "f170adb8-25a4-43d7-a567-4a2bcff8f367",
-  "precio": 40.88,
-  "subtotal": 367.92,
-  "total": 393.67
-}, {
-  "cantidad": 7,
-  "id": "2966e80c-a5c8-4195-9671-3bde89c5a34f",
-  "impuesto": 23.13,
-  "nombre": "Cheese",
-  "ordenesId": "f170adb8-25a4-43d7-a567-4a2bcff8f367",
-  "precio": 47.2,
-  "subtotal": 330.4,
-  "total": 353.53
-}, {
-  "cantidad": 6,
-  "id": "cf0b33cc-0fcc-4d94-8197-b41b03e705b9",
-  "impuesto": 6.78,
-  "nombre": "Sausages",
-  "ordenesId": "f170adb8-25a4-43d7-a567-4a2bcff8f367",
-  "precio": 16.15,
-  "subtotal": 96.9,
-  "total": 103.68
-}, {
-  "cantidad": 9,
-  "id": "cff678eb-96ae-42a4-9226-06dbc2d17f28",
-  "impuesto": 29.62,
-  "nombre": "Chicken",
-  "ordenesId": "f170adb8-25a4-43d7-a567-4a2bcff8f367",
-  "precio": 47.01,
-  "subtotal": 423.09,
-  "total": 452.71
-}, {
-  "cantidad": 9,
-  "id": "6a0ac1dd-5226-4f5c-bc42-8cdf11621980",
-  "impuesto": 26.07,
-  "nombre": "Pizza",
-  "ordenesId": "29a5f141-db06-4e47-aa2d-90095a0dc639",
-  "precio": 41.38,
-  "subtotal": 372.42,
-  "total": 398.49
-}, {
-  "cantidad": 3,
-  "id": "ca7e9a9e-4b0c-428c-8a10-857f2f69018e",
-  "impuesto": 3.23,
-  "nombre": "Hat",
-  "ordenesId": "29a5f141-db06-4e47-aa2d-90095a0dc639",
-  "precio": 15.4,
-  "subtotal": 46.2,
-  "total": 49.43
-}, {
-  "cantidad": 7,
-  "id": "ae121286-fa3f-456c-9437-3f5bb2a299a6",
-  "impuesto": 22.44,
-  "nombre": "Tuna",
-  "ordenesId": "29a5f141-db06-4e47-aa2d-90095a0dc639",
-  "precio": 45.8,
-  "subtotal": 320.6,
-  "total": 343.04
-}, {
-  "cantidad": 7,
-  "id": "2325742f-ec34-4258-a461-9958b19988c3",
-  "impuesto": 16.43,
-  "nombre": "Towels",
-  "ordenesId": "29a5f141-db06-4e47-aa2d-90095a0dc639",
-  "precio": 33.53,
-  "subtotal": 234.71,
-  "total": 251.14
-}, {
-  "cantidad": 5,
-  "id": "a6f40600-749c-4069-8a83-4fc28d6e326c",
-  "impuesto": 10.87,
-  "nombre": "Chair",
-  "ordenesId": "29a5f141-db06-4e47-aa2d-90095a0dc639",
-  "precio": 31.05,
-  "subtotal": 155.25,
-  "total": 166.12
-}, {
-  "cantidad": 7,
-  "id": "d59aeb31-c5f1-4f9a-a759-1a1b8566686d",
-  "impuesto": 15.19,
-  "nombre": "Salad",
-  "ordenesId": "1f4e9201-2b06-4d5e-bfe8-72042cdb27fc",
-  "precio": 31,
-  "subtotal": 217,
-  "total": 232.19
-}, {
-  "cantidad": 6,
-  "id": "82bc6e4d-3928-4372-a20e-b32dc1d82ac0",
-  "impuesto": 7.21,
-  "nombre": "Chips",
-  "ordenesId": "1f4e9201-2b06-4d5e-bfe8-72042cdb27fc",
-  "precio": 17.17,
-  "subtotal": 103.02,
-  "total": 110.23
-}, {
-  "cantidad": 6,
-  "id": "f1373621-7b8a-4038-937b-7ade6b6ff63b",
-  "impuesto": 7.3,
-  "nombre": "Keyboard",
-  "ordenesId": "1f4e9201-2b06-4d5e-bfe8-72042cdb27fc",
-  "precio": 17.38,
-  "subtotal": 104.28,
-  "total": 111.58
-}, {
-  "cantidad": 5,
-  "id": "78d956df-f3f5-4bb4-aa67-225d406d9f85",
-  "impuesto": 8.06,
-  "nombre": "Shirt",
-  "ordenesId": "1f4e9201-2b06-4d5e-bfe8-72042cdb27fc",
-  "precio": 23.04,
-  "subtotal": 115.2,
-  "total": 123.26
-}, {
-  "cantidad": 5,
-  "id": "901aaa51-2f40-4165-af72-47582e669509",
-  "impuesto": 12.72,
-  "nombre": "Bike",
-  "ordenesId": "1f4e9201-2b06-4d5e-bfe8-72042cdb27fc",
-  "precio": 36.33,
-  "subtotal": 181.65,
-  "total": 194.37
-}, {
-  "cantidad": 10,
-  "id": "1eb6e936-5295-49b9-8f88-5db4c073b8ba",
-  "impuesto": 7.43,
-  "nombre": "Tuna",
-  "ordenesId": "1f4e9201-2b06-4d5e-bfe8-72042cdb27fc",
-  "precio": 10.62,
-  "subtotal": 106.2,
-  "total": 113.63
-}, {
-  "cantidad": 3,
-  "id": "3e42d072-aa2e-4763-adfc-5804bb2c4f0d",
-  "impuesto": 5.78,
-  "nombre": "Chair",
-  "ordenesId": "1f4e9201-2b06-4d5e-bfe8-72042cdb27fc",
-  "precio": 27.54,
-  "subtotal": 82.62,
-  "total": 88.4
-}, {
-  "cantidad": 6,
-  "id": "4c549728-df8f-4a43-a056-4c44a0077421",
-  "impuesto": 16.4,
-  "nombre": "Pizza",
-  "ordenesId": "1f4e9201-2b06-4d5e-bfe8-72042cdb27fc",
-  "precio": 39.04,
-  "subtotal": 234.24,
-  "total": 250.64
-}, {
-  "cantidad": 7,
-  "id": "8d728c16-ec41-462b-aa98-82e8870557b1",
-  "impuesto": 8.79,
-  "nombre": "Chips",
-  "ordenesId": "1f4e9201-2b06-4d5e-bfe8-72042cdb27fc",
-  "precio": 17.93,
-  "subtotal": 125.51,
-  "total": 134.3
-}, {
-  "cantidad": 3,
-  "id": "af19407a-c7a5-4fc6-993b-e45b4c6c7ed2",
-  "impuesto": 9.57,
-  "nombre": "Bike",
-  "ordenesId": "b26a0b91-31b2-4dd2-a0bc-84f814206bc5",
-  "precio": 45.58,
-  "subtotal": 136.74,
-  "total": 146.31
-}, {
-  "cantidad": 4,
-  "id": "96b08fa7-d0ac-4811-8364-71f49d0138f5",
-  "impuesto": 4.23,
-  "nombre": "Fish",
-  "ordenesId": "b26a0b91-31b2-4dd2-a0bc-84f814206bc5",
-  "precio": 15.1,
-  "subtotal": 60.4,
-  "total": 64.63
-}, {
-  "cantidad": 6,
-  "id": "f8e3aa1e-a2e8-4800-bb49-e8879b5e749b",
-  "impuesto": 20.1,
-  "nombre": "Shoes",
-  "ordenesId": "b26a0b91-31b2-4dd2-a0bc-84f814206bc5",
-  "precio": 47.86,
-  "subtotal": 287.16,
-  "total": 307.26
-}, {
-  "cantidad": 9,
-  "id": "d9973b88-4e64-4fc5-9329-4970e040c1d4",
-  "impuesto": 14.49,
-  "nombre": "Salad",
-  "ordenesId": "b26a0b91-31b2-4dd2-a0bc-84f814206bc5",
-  "precio": 23,
-  "subtotal": 207,
-  "total": 221.49
-}, {
-  "cantidad": 6,
-  "id": "4a44a472-5286-475f-aa71-049464c6f0e8",
-  "impuesto": 17.13,
-  "nombre": "Pizza",
-  "ordenesId": "b26a0b91-31b2-4dd2-a0bc-84f814206bc5",
-  "precio": 40.78,
-  "subtotal": 244.68,
-  "total": 261.81
-}, {
-  "cantidad": 7,
-  "id": "adbb04df-2277-44c9-a1bb-49f089acc212",
-  "impuesto": 22.67,
-  "nombre": "Bacon",
-  "ordenesId": "b26a0b91-31b2-4dd2-a0bc-84f814206bc5",
-  "precio": 46.26,
-  "subtotal": 323.82,
-  "total": 346.49
-}, {
-  "cantidad": 9,
-  "id": "36f8b530-df0c-4aa6-b7f1-f3d75120b5a3",
-  "impuesto": 26.7,
-  "nombre": "Table",
-  "ordenesId": "7cd85b30-1209-41fb-afbd-261f4a6c3961",
-  "precio": 42.38,
-  "subtotal": 381.42,
-  "total": 408.12
-}, {
-  "cantidad": 7,
-  "id": "aca61473-b635-4da4-8b6c-4de7fea18d48",
-  "impuesto": 10.32,
-  "nombre": "Cheese",
-  "ordenesId": "7cd85b30-1209-41fb-afbd-261f4a6c3961",
-  "precio": 21.06,
-  "subtotal": 147.42,
-  "total": 157.74
-}, {
-  "cantidad": 3,
-  "id": "7082b04c-c68b-47cb-901f-1cd942267717",
-  "impuesto": 2.47,
-  "nombre": "Keyboard",
-  "ordenesId": "527d91ba-5609-49a9-8baa-f9e601cbee9c",
-  "precio": 11.75,
-  "subtotal": 35.25,
-  "total": 37.72
-}, {
-  "cantidad": 8,
-  "id": "7403d6fc-96a6-4050-b6cb-40ca59c7f03b",
-  "impuesto": 25.44,
-  "nombre": "Sausages",
-  "ordenesId": "527d91ba-5609-49a9-8baa-f9e601cbee9c",
-  "precio": 45.42,
-  "subtotal": 363.36,
-  "total": 388.8
-}, {
-  "cantidad": 8,
-  "id": "a33b4ae8-9cb3-4c92-93a8-989f7b34956c",
-  "impuesto": 11.25,
-  "nombre": "Pants",
-  "ordenesId": "527d91ba-5609-49a9-8baa-f9e601cbee9c",
-  "precio": 20.09,
-  "subtotal": 160.72,
-  "total": 171.97
-}, {
-  "cantidad": 5,
-  "id": "0dd4f1f4-4c13-4257-96f4-b93ff3205f5f",
-  "impuesto": 7.44,
-  "nombre": "Pants",
-  "ordenesId": "527d91ba-5609-49a9-8baa-f9e601cbee9c",
-  "precio": 21.26,
-  "subtotal": 106.3,
-  "total": 113.74
-}, {
-  "cantidad": 3,
-  "id": "7705c609-6014-491e-87ab-5cb5b24a94d5",
-  "impuesto": 7.71,
-  "nombre": "Soap",
-  "ordenesId": "527d91ba-5609-49a9-8baa-f9e601cbee9c",
-  "precio": 36.7,
-  "subtotal": 110.1,
-  "total": 117.81
-}, {
-  "cantidad": 10,
-  "id": "54155a67-95a1-418f-9279-0407aa23c40d",
-  "impuesto": 15.9,
-  "nombre": "Salad",
-  "ordenesId": "527d91ba-5609-49a9-8baa-f9e601cbee9c",
-  "precio": 22.72,
-  "subtotal": 227.2,
-  "total": 243.1
-}, {
-  "cantidad": 3,
-  "id": "9aa9ae14-0640-4fea-a0c1-3fb5b459194e",
-  "impuesto": 7.43,
-  "nombre": "Sausages",
-  "ordenesId": "527d91ba-5609-49a9-8baa-f9e601cbee9c",
-  "precio": 35.36,
-  "subtotal": 106.08,
-  "total": 113.51
-}, {
-  "cantidad": 9,
-  "id": "6cbc9ccf-bf16-474b-a1c4-679fadb4f734",
-  "impuesto": 28.66,
-  "nombre": "Towels",
-  "ordenesId": "977ce267-0606-43a0-a279-caac2f4aaa1f",
-  "precio": 45.49,
-  "subtotal": 409.41,
-  "total": 438.07
-}, {
-  "cantidad": 8,
-  "id": "036f2ef1-f4e3-4c5d-aee6-a5dacca661d4",
-  "impuesto": 14.4,
-  "nombre": "Pizza",
-  "ordenesId": "324fe3ba-fca8-4fc6-8cb4-4f72cb45fc77",
-  "precio": 25.71,
-  "subtotal": 205.68,
-  "total": 220.08
-}, {
-  "cantidad": 3,
-  "id": "b34c48f3-30cd-4a81-ad4c-36f1e239c8ef",
-  "impuesto": 9.83,
-  "nombre": "Tuna",
-  "ordenesId": "324fe3ba-fca8-4fc6-8cb4-4f72cb45fc77",
-  "precio": 46.82,
-  "subtotal": 140.46,
-  "total": 150.29
-}, {
-  "cantidad": 8,
-  "id": "86b6fceb-c990-4352-b611-7d6701549b4a",
-  "impuesto": 24.81,
-  "nombre": "Chair",
-  "ordenesId": "36bdeb1c-fddc-41b9-8f65-e16b3df69c58",
-  "precio": 44.31,
-  "subtotal": 354.48,
-  "total": 379.29
-}, {
-  "cantidad": 4,
-  "id": "288ecd34-315b-4e0a-8926-7ac047f8e4e3",
-  "impuesto": 9.42,
-  "nombre": "Chips",
-  "ordenesId": "36bdeb1c-fddc-41b9-8f65-e16b3df69c58",
-  "precio": 33.63,
-  "subtotal": 134.52,
-  "total": 143.94
-}, {
-  "cantidad": 10,
-  "id": "cb9bf77b-dbc0-4784-b647-7ec90378b8e8",
-  "impuesto": 26.49,
-  "nombre": "Shoes",
-  "ordenesId": "69b2e11c-c28d-43f2-a832-127de8d26e95",
-  "precio": 37.84,
-  "subtotal": 378.4,
-  "total": 404.89
-}, {
-  "cantidad": 8,
-  "id": "4fa56f42-dd79-46ea-8da6-7eb55be6add3",
-  "impuesto": 15.3,
-  "nombre": "Salad",
-  "ordenesId": "69b2e11c-c28d-43f2-a832-127de8d26e95",
-  "precio": 27.33,
-  "subtotal": 218.64,
-  "total": 233.94
-}, {
-  "cantidad": 4,
-  "id": "6038efc5-d526-4850-ba62-ad89be7579ff",
-  "impuesto": 5.06,
-  "nombre": "Pants",
-  "ordenesId": "69b2e11c-c28d-43f2-a832-127de8d26e95",
-  "precio": 18.08,
-  "subtotal": 72.32,
-  "total": 77.38
-}, {
-  "cantidad": 9,
-  "id": "972f1049-3990-4c6a-a00f-743a43397ac2",
-  "impuesto": 25.34,
-  "nombre": "Chair",
-  "ordenesId": "69b2e11c-c28d-43f2-a832-127de8d26e95",
-  "precio": 40.22,
-  "subtotal": 361.98,
-  "total": 387.32
-}, {
-  "cantidad": 3,
-  "id": "4db0c654-71ac-4a93-828c-899520cf6c44",
-  "impuesto": 4.59,
-  "nombre": "Sausages",
-  "ordenesId": "69b2e11c-c28d-43f2-a832-127de8d26e95",
-  "precio": 21.87,
-  "subtotal": 65.61,
-  "total": 70.2
-}, {
-  "cantidad": 6,
-  "id": "2aba45f1-7353-4465-9748-841b17edcc67",
-  "impuesto": 14.38,
-  "nombre": "Fish",
-  "ordenesId": "69b2e11c-c28d-43f2-a832-127de8d26e95",
-  "precio": 34.23,
-  "subtotal": 205.38,
-  "total": 219.76
-}, {
-  "cantidad": 6,
-  "id": "dd6151b5-be5d-4080-91c9-bf1c43e69762",
-  "impuesto": 4.62,
-  "nombre": "Mouse",
-  "ordenesId": "69b2e11c-c28d-43f2-a832-127de8d26e95",
-  "precio": 10.99,
-  "subtotal": 65.94,
-  "total": 70.56
-}, {
-  "cantidad": 6,
-  "id": "512953f6-fdf4-49ab-9b76-582ba7604373",
-  "impuesto": 8.51,
-  "nombre": "Table",
-  "ordenesId": "69b2e11c-c28d-43f2-a832-127de8d26e95",
-  "precio": 20.25,
-  "subtotal": 121.5,
-  "total": 130.01
-}, {
-  "cantidad": 4,
-  "id": "b9edd088-6326-4982-8ee0-74f1ff72a300",
-  "impuesto": 7.59,
-  "nombre": "Table",
-  "ordenesId": "e755b745-b67a-4acc-a0b9-89c3d3a92250",
-  "precio": 27.12,
-  "subtotal": 108.48,
-  "total": 116.07
-}, {
-  "cantidad": 4,
-  "id": "d0352dfd-6c21-4fe4-899d-ed60f8f89376",
-  "impuesto": 10.28,
-  "nombre": "Table",
-  "ordenesId": "e755b745-b67a-4acc-a0b9-89c3d3a92250",
-  "precio": 36.71,
-  "subtotal": 146.84,
-  "total": 157.12
-}, {
-  "cantidad": 5,
-  "id": "e2c15d63-48f0-461f-9175-694622f8c2ff",
-  "impuesto": 4.98,
-  "nombre": "Gloves",
-  "ordenesId": "688f763e-4973-47a6-9d62-d670f90c9f14",
-  "precio": 14.24,
-  "subtotal": 71.2,
-  "total": 76.18
-}, {
-  "cantidad": 4,
-  "id": "47995011-94c8-4b94-828e-34a8b6497fb8",
-  "impuesto": 4.86,
-  "nombre": "Chips",
-  "ordenesId": "688f763e-4973-47a6-9d62-d670f90c9f14",
-  "precio": 17.35,
-  "subtotal": 69.4,
-  "total": 74.26
-}, {
-  "cantidad": 9,
-  "id": "8c9d47a6-d11b-45c7-af73-48608dfc7c40",
-  "impuesto": 24.11,
-  "nombre": "Computer",
-  "ordenesId": "688f763e-4973-47a6-9d62-d670f90c9f14",
-  "precio": 38.27,
-  "subtotal": 344.43,
-  "total": 368.54
-}, {
-  "cantidad": 4,
-  "id": "481d2a7d-6889-4afb-a1af-9254189fa7dd",
-  "impuesto": 13.33,
-  "nombre": "Salad",
-  "ordenesId": "688f763e-4973-47a6-9d62-d670f90c9f14",
-  "precio": 47.62,
-  "subtotal": 190.48,
-  "total": 203.81
-}, {
-  "cantidad": 6,
-  "id": "fc3e4d63-1f17-4091-ad58-9b4644095ac3",
-  "impuesto": 6.35,
-  "nombre": "Chair",
-  "ordenesId": "688f763e-4973-47a6-9d62-d670f90c9f14",
-  "precio": 15.13,
-  "subtotal": 90.78,
-  "total": 97.13
-}, {
-  "cantidad": 4,
-  "id": "ebab8a1b-b2aa-448f-9fba-d70cb5ec53d8",
-  "impuesto": 6.09,
-  "nombre": "Chips",
-  "ordenesId": "688f763e-4973-47a6-9d62-d670f90c9f14",
-  "precio": 21.75,
-  "subtotal": 87,
-  "total": 93.09
-}, {
-  "cantidad": 6,
-  "id": "ba76abb7-cfcc-4af4-afec-d4f81e0a2e71",
-  "impuesto": 8.2,
-  "nombre": "Chips",
-  "ordenesId": "673e254d-6e99-41ac-83c8-c775eebcd22c",
-  "precio": 19.53,
-  "subtotal": 117.18,
-  "total": 125.38
-}, {
-  "cantidad": 7,
-  "id": "3e732a14-5c46-4fc8-bd76-68f83da1a09a",
-  "impuesto": 16.37,
-  "nombre": "Sausages",
-  "ordenesId": "673e254d-6e99-41ac-83c8-c775eebcd22c",
-  "precio": 33.41,
-  "subtotal": 233.87,
-  "total": 250.24
-}, {
-  "cantidad": 4,
-  "id": "764fd026-952a-4cbc-97f0-8f65f4a8af35",
-  "impuesto": 4.61,
-  "nombre": "Bacon",
-  "ordenesId": "673e254d-6e99-41ac-83c8-c775eebcd22c",
-  "precio": 16.47,
-  "subtotal": 65.88,
-  "total": 70.49
-}, {
-  "cantidad": 5,
-  "id": "b9d61336-ebfe-4400-8142-249d54cc890d",
-  "impuesto": 11.94,
-  "nombre": "Shoes",
-  "ordenesId": "673e254d-6e99-41ac-83c8-c775eebcd22c",
-  "precio": 34.12,
-  "subtotal": 170.6,
-  "total": 182.54
-}, {
-  "cantidad": 4,
-  "id": "29b3007b-b9c5-401b-aa9e-05e2d7dede1b",
-  "impuesto": 3.12,
-  "nombre": "Gloves",
-  "ordenesId": "2c2b31f6-ac59-415d-a4df-638a71a405bb",
-  "precio": 11.13,
-  "subtotal": 44.52,
-  "total": 47.64
-}, {
-  "cantidad": 5,
-  "id": "87246782-f4da-4d80-a3e5-3623bdf126d6",
-  "impuesto": 6.47,
-  "nombre": "Keyboard",
-  "ordenesId": "2c2b31f6-ac59-415d-a4df-638a71a405bb",
-  "precio": 18.49,
-  "subtotal": 92.45,
-  "total": 98.92
-}, {
-  "cantidad": 4,
-  "id": "7fffd108-16fa-4ca4-b9b0-61b7f3b90bcb",
-  "impuesto": 3.09,
-  "nombre": "Bacon",
-  "ordenesId": "2c2b31f6-ac59-415d-a4df-638a71a405bb",
-  "precio": 11.02,
-  "subtotal": 44.08,
-  "total": 47.17
-}]
+  
+  "ordenes": [
+    {
+      "id": "963639d4-131b-42b6-96c5-c52fa40bcd49",
+      "impuesto": 156.19,
+      "subtotal": 2231.04,
+      "total": 2387.23
+    },
+    {
+      "id": "ba4555f5-c57e-48e1-b6b8-523595480bb6",
+      "impuesto": 75.2,
+      "subtotal": 1074.26,
+      "total": 1149.46
+    },
+    {
+      "id": "d5bc7a32-2343-4f4c-9626-01c37a31dfa9",
+      "impuesto": 133.98,
+      "subtotal": 1914.06,
+      "total": 2048.04
+    },
+    {
+      "id": "c9d18485-1138-4ef2-97e9-52023e5b4fe2",
+      "impuesto": 80.86,
+      "subtotal": 1155.06,
+      "total": 1235.92
+    },
+    {
+      "id": "6b47ca97-52a9-4164-8e96-6f82caacc022",
+      "impuesto": 103.3,
+      "subtotal": 1475.74,
+      "total": 1579.04
+    }
+  ],
+  "detalles": [
+    {
+      "cantidad": 5,
+      "id": "4a844bdf-62f5-435d-b910-06154c53d11b",
+      "impuesto": 9.72,
+      "nombre": "Chicken",
+      "ordenesId": "963639d4-131b-42b6-96c5-c52fa40bcd49",
+      "precio": 27.76,
+      "subtotal": 138.8,
+      "total": 148.52
+    },
+    {
+      "cantidad": 3,
+      "id": "b845c5f0-bf14-4724-97da-a55683680e65",
+      "impuesto": 9.22,
+      "nombre": "Soap",
+      "ordenesId": "963639d4-131b-42b6-96c5-c52fa40bcd49",
+      "precio": 43.9,
+      "subtotal": 131.7,
+      "total": 140.92
+    },
+    {
+      "cantidad": 3,
+      "id": "ff4c553a-3146-4344-afce-e42218f8b612",
+      "impuesto": 8,
+      "nombre": "Keyboard",
+      "ordenesId": "963639d4-131b-42b6-96c5-c52fa40bcd49",
+      "precio": 38.08,
+      "subtotal": 114.24,
+      "total": 122.24
+    },
+    {
+      "cantidad": 8,
+      "id": "fad77b9b-d060-49ca-9ac8-dde06b7c00bf",
+      "impuesto": 23.53,
+      "nombre": "Computer",
+      "ordenesId": "963639d4-131b-42b6-96c5-c52fa40bcd49",
+      "precio": 42.01,
+      "subtotal": 336.08,
+      "total": 359.61
+    },
+    {
+      "cantidad": 5,
+      "id": "383a8a3b-36f3-4a29-a817-692ea45d52da",
+      "impuesto": 16.22,
+      "nombre": "Computer",
+      "ordenesId": "963639d4-131b-42b6-96c5-c52fa40bcd49",
+      "precio": 46.33,
+      "subtotal": 231.65,
+      "total": 247.87
+    },
+    {
+      "cantidad": 5,
+      "id": "0ca12ea1-ccf5-4f5d-a9f5-1a63068c3807",
+      "impuesto": 16.22,
+      "nombre": "Mouse",
+      "ordenesId": "963639d4-131b-42b6-96c5-c52fa40bcd49",
+      "precio": 46.35,
+      "subtotal": 231.75,
+      "total": 247.97
+    },
+    {
+      "cantidad": 10,
+      "id": "a7f29504-5cbf-4fa1-81ee-60eaae27d08e",
+      "impuesto": 15.19,
+      "nombre": "Bacon",
+      "ordenesId": "963639d4-131b-42b6-96c5-c52fa40bcd49",
+      "precio": 21.7,
+      "subtotal": 217,
+      "total": 232.19
+    },
+    {
+      "cantidad": 10,
+      "id": "e8f7ed88-1071-48a4-8b7d-9a3f7e19c984",
+      "impuesto": 33.29,
+      "nombre": "Soap",
+      "ordenesId": "963639d4-131b-42b6-96c5-c52fa40bcd49",
+      "precio": 47.55,
+      "subtotal": 475.5,
+      "total": 508.79
+    },
+    {
+      "cantidad": 8,
+      "id": "e71f716a-ae10-4cb2-9497-91e4233fedd2",
+      "impuesto": 15.88,
+      "nombre": "Keyboard",
+      "ordenesId": "963639d4-131b-42b6-96c5-c52fa40bcd49",
+      "precio": 28.36,
+      "subtotal": 226.88,
+      "total": 242.76
+    },
+    {
+      "cantidad": 9,
+      "id": "6f2fc301-77c3-4f72-a21e-bc67a0cb48ab",
+      "impuesto": 8.92,
+      "nombre": "Mouse",
+      "ordenesId": "963639d4-131b-42b6-96c5-c52fa40bcd49",
+      "precio": 14.16,
+      "subtotal": 127.44,
+      "total": 136.36
+    },
+    {
+      "cantidad": 10,
+      "id": "43f6c546-01a5-419b-b296-c74fe1018292",
+      "impuesto": 23.77,
+      "nombre": "Sausages",
+      "ordenesId": "ba4555f5-c57e-48e1-b6b8-523595480bb6",
+      "precio": 33.96,
+      "subtotal": 339.6,
+      "total": 363.37
+    },
+    {
+      "cantidad": 10,
+      "id": "632ff4e5-d643-4782-a2c3-ddd434e52d63",
+      "impuesto": 29.48,
+      "nombre": "Hat",
+      "ordenesId": "ba4555f5-c57e-48e1-b6b8-523595480bb6",
+      "precio": 42.11,
+      "subtotal": 421.1,
+      "total": 450.58
+    },
+    {
+      "cantidad": 6,
+      "id": "d11d4456-b38b-4ee3-a12d-64809730cb27",
+      "impuesto": 16.36,
+      "nombre": "Bacon",
+      "ordenesId": "ba4555f5-c57e-48e1-b6b8-523595480bb6",
+      "precio": 38.96,
+      "subtotal": 233.76,
+      "total": 250.12
+    },
+    {
+      "cantidad": 7,
+      "id": "90410bcc-2e24-41e2-9d2c-05d3cb77f54c",
+      "impuesto": 5.59,
+      "nombre": "Tuna",
+      "ordenesId": "ba4555f5-c57e-48e1-b6b8-523595480bb6",
+      "precio": 11.4,
+      "subtotal": 79.8,
+      "total": 85.39
+    },
+    {
+      "cantidad": 9,
+      "id": "b01613ba-5099-4bb0-b7aa-91f1ad5072fc",
+      "impuesto": 21.84,
+      "nombre": "Computer",
+      "ordenesId": "d5bc7a32-2343-4f4c-9626-01c37a31dfa9",
+      "precio": 34.66,
+      "subtotal": 311.94,
+      "total": 333.78
+    },
+    {
+      "cantidad": 6,
+      "id": "fd7bb038-c577-4863-864a-1e795343b1cf",
+      "impuesto": 12.6,
+      "nombre": "Chair",
+      "ordenesId": "d5bc7a32-2343-4f4c-9626-01c37a31dfa9",
+      "precio": 30.01,
+      "subtotal": 180.06,
+      "total": 192.66
+    },
+    {
+      "cantidad": 9,
+      "id": "5e3d8c72-9203-43a9-b735-597b88482e23",
+      "impuesto": 28.78,
+      "nombre": "Gloves",
+      "ordenesId": "d5bc7a32-2343-4f4c-9626-01c37a31dfa9",
+      "precio": 45.68,
+      "subtotal": 411.12,
+      "total": 439.9
+    },
+    {
+      "cantidad": 10,
+      "id": "f51b4432-9845-4214-98b7-f72bde2c7011",
+      "impuesto": 25.03,
+      "nombre": "Shoes",
+      "ordenesId": "d5bc7a32-2343-4f4c-9626-01c37a31dfa9",
+      "precio": 35.76,
+      "subtotal": 357.6,
+      "total": 382.63
+    },
+    {
+      "cantidad": 7,
+      "id": "a6e5ccd6-df77-4b09-88f4-e05f821280e5",
+      "impuesto": 15.82,
+      "nombre": "Gloves",
+      "ordenesId": "d5bc7a32-2343-4f4c-9626-01c37a31dfa9",
+      "precio": 32.29,
+      "subtotal": 226.03,
+      "total": 241.85
+    },
+    {
+      "cantidad": 8,
+      "id": "374fddbd-5df0-47ce-80c8-5a6e3f2612c4",
+      "impuesto": 25.8,
+      "nombre": "Chips",
+      "ordenesId": "d5bc7a32-2343-4f4c-9626-01c37a31dfa9",
+      "precio": 46.07,
+      "subtotal": 368.56,
+      "total": 394.36
+    },
+    {
+      "cantidad": 5,
+      "id": "4d2ef5ee-3f8f-4110-b21b-1a36d917790f",
+      "impuesto": 4.11,
+      "nombre": "Chair",
+      "ordenesId": "d5bc7a32-2343-4f4c-9626-01c37a31dfa9",
+      "precio": 11.75,
+      "subtotal": 58.75,
+      "total": 62.86
+    },
+    {
+      "cantidad": 10,
+      "id": "838b3d81-3e09-483a-8fa5-2051f157f7db",
+      "impuesto": 28.85,
+      "nombre": "Shirt",
+      "ordenesId": "c9d18485-1138-4ef2-97e9-52023e5b4fe2",
+      "precio": 41.22,
+      "subtotal": 412.2,
+      "total": 441.05
+    },
+    {
+      "cantidad": 9,
+      "id": "d9203ca6-d60d-4a67-8447-722106e1ab19",
+      "impuesto": 17.77,
+      "nombre": "Chicken",
+      "ordenesId": "c9d18485-1138-4ef2-97e9-52023e5b4fe2",
+      "precio": 28.2,
+      "subtotal": 253.8,
+      "total": 271.57
+    },
+    {
+      "cantidad": 5,
+      "id": "17bced35-7bb1-4dd8-a8b3-433f2e2c0858",
+      "impuesto": 17.34,
+      "nombre": "Computer",
+      "ordenesId": "c9d18485-1138-4ef2-97e9-52023e5b4fe2",
+      "precio": 49.54,
+      "subtotal": 247.7,
+      "total": 265.04
+    },
+    {
+      "cantidad": 8,
+      "id": "ba47ff0f-6faa-4307-8578-bd299480a380",
+      "impuesto": 16.9,
+      "nombre": "Keyboard",
+      "ordenesId": "c9d18485-1138-4ef2-97e9-52023e5b4fe2",
+      "precio": 30.17,
+      "subtotal": 241.36,
+      "total": 258.26
+    },
+    {
+      "cantidad": 9,
+      "id": "bb18e788-0424-4b0d-9f71-1cbc09c6f0a5",
+      "impuesto": 18.1,
+      "nombre": "Chair",
+      "ordenesId": "6b47ca97-52a9-4164-8e96-6f82caacc022",
+      "precio": 28.73,
+      "subtotal": 258.57,
+      "total": 276.67
+    },
+    {
+      "cantidad": 10,
+      "id": "301605c7-2c53-4507-b624-f65fb19252cd",
+      "impuesto": 30.56,
+      "nombre": "Tuna",
+      "ordenesId": "6b47ca97-52a9-4164-8e96-6f82caacc022",
+      "precio": 43.65,
+      "subtotal": 436.5,
+      "total": 467.06
+    },
+    {
+      "cantidad": 4,
+      "id": "2de6ab16-bbe6-4dd4-b191-c81b51289f97",
+      "impuesto": 10.07,
+      "nombre": "Keyboard",
+      "ordenesId": "6b47ca97-52a9-4164-8e96-6f82caacc022",
+      "precio": 35.96,
+      "subtotal": 143.84,
+      "total": 153.91
+    },
+    {
+      "cantidad": 9,
+      "id": "1bc622f0-88a6-4186-a26e-ed0bacc5cbc3",
+      "impuesto": 31.44,
+      "nombre": "Hat",
+      "ordenesId": "6b47ca97-52a9-4164-8e96-6f82caacc022",
+      "precio": 49.91,
+      "subtotal": 449.19,
+      "total": 480.63
+    },
+    {
+      "cantidad": 4,
+      "id": "8af535da-bcbe-4a95-a24a-e225bd76abd8",
+      "impuesto": 13.13,
+      "nombre": "Ball",
+      "ordenesId": "6b47ca97-52a9-4164-8e96-6f82caacc022",
+      "precio": 46.91,
+      "subtotal": 187.64,
+      "total": 200.77
+    }
+  ]
 }
